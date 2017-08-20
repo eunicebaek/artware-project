@@ -1,2 +1,2 @@
 # artware-project
-Artware project by Eunice Baek
+Artware project 'Organize?r' by Eunice Baek
